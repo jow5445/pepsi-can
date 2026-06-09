@@ -175,6 +175,7 @@ nav ul a {
   }
 }
 
+/* Mobile */
 @media (max-width: 600px) {
   nav {
     display: block;
